@@ -1,0 +1,68 @@
+.heading {
+  background-image: url(landing.jpg);
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-weight: 10px;
+  font-style: italic;
+  font-family: cursive;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.first {
+  background-color: grey;
+  text-align: center;
+  margin-top: 15px
+  height: 90px;
+}
+
+.second {
+  background-color: rgb(255, 113, 79);
+  height: 90px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container {
+  content: none;
+}
+
+.breakfast {
+  background-image: url(breakfast.jpg);
+  background-size: cover;
+  height: 180px;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .2);
+}
+
+.lunch {
+  background-image: url(lunch.jpg);
+  height: 180px;
+  background-size: cover;
+  /*width: 405px;*/
+}
+
+.dinner {
+  background-image: url(dinner.jpg);
+  height: 180px;
+}
+
+h2 {
+  /*margin-left:25px;*/
+  padding-top: 50px;
+  color: white;
+  font-family: fantasy;
+  font-style: italic;
+  text-align: center;
+}
+#middle{
+  float: left;
+  margin: 60px;
+
+}
